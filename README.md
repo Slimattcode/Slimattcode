@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Slimane
+# Hello, there, I'm Sliman Aguersif
 - 👀 I’m interested in Front-end development
 - 🌱 I’m currently learning React & Redux
 
