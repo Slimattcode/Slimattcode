@@ -1,6 +1,6 @@
 # Hello, there, I'm Sliman Aguersif
 - 👀 I’m interested in Front-end development
-- 🌱 I’m currently learning React & Redux
+- 🌱 I’m currently learning React & Redux & D3 at https://www.freecodecamp.org;
 - you can find my learning projects on https://codepen.io/slimattcode; If you have any comments, please feel free to give them. Thanks. 
 
 <!---
