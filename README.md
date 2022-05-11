@@ -1,6 +1,8 @@
-# Hello, there, I'm Sliman Aguersif
-- 👀 I’m interested in Full Stack web development
-- 🌱 I’m currently learning Quality Assurance at https://www.freecodecamp.org/slimattcode;
+- 🤝 Hello, there, I'm Sliman, self-taught MERN stack developer;
+- 👀 I’m actively looking for a junior position as web developer;
+- 🌱 I'm an avid learner;
+
+
 
 <!---
 Slimattcode/Slimattcode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
