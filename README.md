@@ -1,6 +1,4 @@
-- 🤝 Hello, there, I'm Sliman, self-taught MERN stack developer;
-- 👀 I’m actively looking for a junior position as web developer;
-- 🌱 I'm an avid learner;
+
 
 
 
